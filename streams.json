@@ -13,9 +13,9 @@
         },
         {
           "id": "ch2",
-          "title": "BBC News",
+          "title": "Al Jazeera Mubasher",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/200px-BBC_News_2019.svg.png",
-          "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8"
+          "stream_url": "https://live-hls-web-ajm-bp.thehlive.com/AJM/03.m3u8"
         }
       ]
     },
