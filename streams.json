@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "news",
+      "name": "News",
+      "icon": "📰",
+      "channels": [
+        {
+          "id": "ch1",
+          "title": "Al Jazeera",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",
+          "stream_url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+        },
+        {
+          "id": "ch2",
+          "title": "BBC News",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/200px-BBC_News_2019.svg.png",
+          "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "icon": "🎬",
+      "channels": [
+        {
+          "id": "ch3",
+          "title": "Sample Stream",
+          "logo": "",
+          "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "syria",
+      "name": "Syria",
+      "icon": "🇸🇾",
+      "channels": []
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "⚽",
+      "channels": []
+    }
+  ]
+}
