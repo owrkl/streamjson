@@ -9,7 +9,7 @@
           "id": "ch1",
           "title": "Al Jazeera",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",
-          "stream_url": "https://live-hls-web-aje.getaj.net/AJA/03.m3u8"
+          "stream_url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8"
         },
         {
           "id": "ch2",
