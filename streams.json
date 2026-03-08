@@ -28,6 +28,12 @@
           "title":"Al Arabiya",
           "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/960px-Al-Arabiya_new_logo.svg.png",
           "stream_url":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8"
+        },
+        {
+          "id":"ch4",
+          "title":"Al Hadath",
+          "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/1280px-Al_Hadath_TV_logo_2023.svg.png",
+          "stream_url":""
         }
       ]
     },
