@@ -3,56 +3,52 @@
     {
       "id": "news",
       "name": "News",
-      "icon": "📰",
       "channels": [
         {
           "id": "ch1",
-          "title": "Al Jazeera",
+          "name": "Al Jazeera",
           "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",
-          "stream_url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8"
+          "url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8"
         },
         {
           "id": "ch2",
-          "title": "Al Jazeera Mubasher",
+          "name": "Al Jazeera Mubasher",
           "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c3/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg/250px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg.png",
-          "stream_url": "https://live-hls-web-ajm-bp.thehlive.com/AJM/03.m3u8"
+          "url": "https://live-hls-web-ajm-bp.thehlive.com/AJM/03.m3u8"
         },
         {
           "id": "ch3",
-          "title": "Al Jazeera Mubasher 2",
+          "name": "Al Jazeera Mubasher 2",
           "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c3/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg/250px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg.png",
-          "stream_url": "https://live-hls-web-ajm2-gcp.thehlive.com/AJM2/03.m3u8"
+          "url": "https://live-hls-web-ajm2-gcp.thehlive.com/AJM2/03.m3u8"
         },
         {
-          "id":"ch4",
-          "title":"Al Arabiya",
-          "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/960px-Al-Arabiya_new_logo.svg.png",
-          "stream_url":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8"
+          "id": "ch4",
+          "name": "Al Arabiya",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/960px-Al-Arabiya_new_logo.svg.png",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8"
         },
         {
-          "id":"ch5",
-          "title":"Al Hadath",
-          "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/1280px-Al_Hadath_TV_logo_2023.svg.png",
-          "stream_url":""
+          "id": "ch5",
+          "name": "Al Hadath",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/1280px-Al_Hadath_TV_logo_2023.svg.png",
+          "url": ""
         }
       ]
     },
     {
       "id": "entertainment",
       "name": "Entertainment",
-      "icon": "🎬",
       "channels": []
     },
     {
       "id": "syria",
       "name": "Syria",
-      "icon": "🇸🇾",
       "channels": []
     },
     {
       "id": "sports",
       "name": "Sports",
-      "icon": "⚽",
       "channels": []
     }
   ]
