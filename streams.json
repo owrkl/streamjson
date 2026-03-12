@@ -45,7 +45,7 @@
           "name":"Kuwait TV",
 
           "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KuwaitTV.svg/250px-KuwaitTV.svg.png",
-          "url":https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8"
+          "url":"https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8"
          }
       ]
     },
